@@ -1,10 +1,19 @@
-@metacharset: "utf-8";
+@charset "utf-8";
 
 *{
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
     margin: 0px;
 }
 
+.root{
+    
+}
+
 body{
     background-color: aqua;
+}
+
+scopo{
+    background-color: bisque;
 }
