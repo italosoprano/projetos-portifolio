@@ -1,0 +1,10 @@
+@metacharset: "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: aqua;
+}
